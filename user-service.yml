@@ -26,6 +26,6 @@ spring:
     active: default
   datasource:
     driverClassName: org.postgresql.Driver
-    url: jdbc:postgresql://localhost:5432/user-service
+    url: jdbc:postgresql://localhost:5432/USER_SERIVCE
     username: postgres
     password: postgres
